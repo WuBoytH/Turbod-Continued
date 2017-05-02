@@ -1,5 +1,4 @@
 http://wuboyth.github.io/turbod-continued/0*/desc.txt
-http://wuboyth.github.io/turbod-continued/0*/desc.txt
 http://wuboyth.github.io/turbod-continued/1*/animcmd/fighter/bayonetta/effect.bin
 http://wuboyth.github.io/turbod-continued/2*/animcmd/fighter/bayonetta/expression.bin
 http://wuboyth.github.io/turbod-continued/3*/animcmd/fighter/bayonetta/game.bin
